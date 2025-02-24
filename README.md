@@ -10,7 +10,7 @@ A simple and user-friendly Age Calculator that allows users to calculate their e
 
 ## Technologies Used
 - HTML
-- CSS
+- Bootstrap
 - JavaScript
 
 ## Installation
